@@ -1,4 +1,4 @@
 # oomox-griggorii-icons
 oomox-griggorii-icons , debian , ubuntu
 
-$ sudo tar -xzvf oomox-griggorii-icon.tar.gz -C /
+$ sudo dpkg -i ./omox-griggorii-theme-icon-21.04.deb
