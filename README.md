@@ -13,6 +13,6 @@ $ chmod -R a+rwx oomox-griggorii-kde-icons.sh
 
 $ ./oomox-griggorii-kde-icons.sh
 
-TM not propagande it real job technology https://www.youtube.com/watch?v=PXkMqNjOLZo
+TM no investment not propagande it real job technology https://www.youtube.com/watch?v=PXkMqNjOLZo 
 
 Griggorii@gmail.com только настоящие технологии bitcoin support real technology new fix 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
