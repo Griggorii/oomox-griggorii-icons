@@ -3,6 +3,8 @@ oomox-griggorii-icons , debian , ubuntu
 
 $ sudo dpkg -i ./omox-griggorii-theme-icon-21.04.deb
 
+$ sudo tar xvpf ubuntu_all_collections_themes.tar.xz -C / 
+
 Test dconf replace icons ./ and double clik mouse .sh
 
 $ chmod -R a+rwx oomox-griggorii-icons.sh
