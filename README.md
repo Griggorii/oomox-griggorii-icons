@@ -1,5 +1,5 @@
 # oomox-griggorii-icons
-oomox-griggorii-icons , debian , ubuntu , svg text icon patent griggorii
+oomox-griggorii-icons , debian , ubuntu , svg sRGB text icon patent griggorii
 
 HDD install wait a little more time icons will be generated for a long time / установка на hdd подождать чуть больше времени иконки будут долго генерироваться и будут иметь возможность масштабирования без потери качества и открытия в блокноте
 
@@ -21,4 +21,4 @@ $ ./oomox-griggorii-kde-icons.sh
 
 TM no investment not propagande it real job technology https://www.youtube.com/watch?v=PXkMqNjOLZo 
 
-Griggorii@gmail.com только настоящие технологии bitcoin support real technology new fix 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
+Donation support на разработку и доработку систем: https://boosty.to/unix
