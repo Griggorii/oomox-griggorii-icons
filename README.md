@@ -1,5 +1,5 @@
 # oomox-griggorii-icons
-oomox-griggorii-icons , debian , ubuntu
+oomox-griggorii-icons , debian , ubuntu , svg text icon patent griggorii
 
 $ sudo dpkg -i ./oomox-griggorii-theme-icon-21.04.deb
 
