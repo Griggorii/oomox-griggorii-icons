@@ -1,6 +1,8 @@
 # oomox-griggorii-icons
 oomox-griggorii-icons , debian , ubuntu , svg text icon patent griggorii
 
+HDD install wait a little more time icons will be generated for a long time / установка на hdd подождать чуть больше времени иконки будут долго генерироваться 
+
 $ sudo dpkg -i ./oomox-griggorii-theme-icon-21.04.deb
 
 $ sudo dpkg -i ./Pop-dark-oomox-griggorii_theme_2020-21.04.deb
