@@ -1,5 +1,5 @@
 # oomox-griggorii-icons
-oomox-griggorii-icons , debian , ubuntu , svg sRGB text icon patent griggorii
+oomox-griggorii-icons , debian , ubuntu , svg sRGB text icon patent griggorii , utf-8 image pictures
 
 HDD install wait a little more time icons will be generated for a long time / установка на hdd подождать чуть больше времени иконки будут долго генерироваться и будут иметь возможность масштабирования без потери качества и открытия в блокноте
 
